@@ -25,6 +25,16 @@
   `git commit -a -m "WIP" && git push`
 * Otherwise, you might want to `Pin` the workspace in <https://gitpod.io/workspaces>.
 
+## Screenshots
+
+### `tmux` session at startup
+
+<a href="https://github.com/erikmd/gitpod-tp-env/raw/master/images/2024_Screenshot_Gitpod_1.png"><img alt="gitpod-classic + terminal-browser + tmux" width="754px" src="https://github.com/erikmd/gitpod-tp-env/raw/master/images/2024_Screenshot_Gitpod_1.png"></a>
+
+### `emacs` in tty mode with mouse enabled
+
+<a href="https://github.com/erikmd/gitpod-tp-env/raw/master/images/2024_Screenshot_Gitpod_2.png"><img alt="gitpod-classic + terminal-browser + emacs" width="754px" src="https://github.com/erikmd/gitpod-tp-env/raw/master/images/2024_Screenshot_Gitpod_2.png"></a>
+
 ## Limitation
 
 This approach relies on the Gitpod Classic plans which are intended to

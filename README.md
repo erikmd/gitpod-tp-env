@@ -19,6 +19,14 @@
 > [!TIP]
 > You may also be interested in the [Gitpod **Browser Extension**](https://www.gitpod.io/docs/configure/user-settings/browser-extension) to create workspaces more easily from other repositories/PRs.
 
+## At the beginning of the session
+
+If remote pair-programming is needed:
+
+* Browse <https://gitpod.io/workspaces>
+* Click on the workspace's button `⋮`
+* Click on `Connect via SSH`
+
 ## At the end of the session
 
 * You can save your work by using Git commands, for example:  
@@ -39,4 +47,4 @@
 
 This approach relies on the Gitpod Classic plans which are intended to
 be replaced with [Gitpod Flex](https://www.gitpod.io/pricing) after
-April 2025.
+September 2025.
